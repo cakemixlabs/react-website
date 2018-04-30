@@ -1,0 +1,21 @@
+.footer {
+    margin-top: 50px;
+}
+
+.featurette {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.page-content {
+    margin-left: 50px;
+    margin-right: 50px;
+}   
+
+.featurette-image {
+    border-radius: 10px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
