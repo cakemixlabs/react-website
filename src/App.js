@@ -11,8 +11,8 @@ class App extends Component {
     return (
       <div className="App">
         <Navbar />
+        <Banner />
         <div className="page-content">
-          <Banner />
           <Feature />
           <Footer />
         </div>

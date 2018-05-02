@@ -4,7 +4,7 @@ class Navbar extends Component {
     render() {
         return (
             <div>
-                <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+                <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
                     <a className="navbar-brand" href="#">Cakemix Labs</a>
                     <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div className="navbar-nav">
