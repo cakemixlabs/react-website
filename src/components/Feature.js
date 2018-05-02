@@ -10,7 +10,7 @@ class Feature extends Component {
                         <p className="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                     </div>
                     <div className="col-md-5">
-                        <img className="featurette-image img-fluid mx-auto" src="https://images.pexels.com/photos/34753/pexels-photo.jpg" alt="Map image" />
+                        <img className="featurette-image img-fluid mx-auto" src="https://images.unsplash.com/photo-1484544808355-8ec84e534d75" alt="Map image" />
                     </div>
                 </div>
 
