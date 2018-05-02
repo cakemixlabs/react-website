@@ -17,5 +17,9 @@
 }
 
 .navbar {
-    margin-bottom: 50px;
+    background-color: #ee5053;
+}
+
+.jumbotron {
+    margin-top: 50px;
 }
