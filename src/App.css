@@ -16,10 +16,13 @@
     border-radius: 10px;
 }
 
-.navbar {
-    background-color: #ee5053 !important;
-}
+/* .navbar {
+    background-color: gray !important;
+    color: white !important;
+} */
 
 .jumbotron {
     margin-top: 50px;
+    background-color: #ee5053;
+    color: black;
 }
